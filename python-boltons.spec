@@ -8,7 +8,7 @@ Summary:	When they're not builtins, they're boltons
 Summary(pl.UTF-8):	To, co nie jest wbudowane, jest w boltons
 Name:		python-boltons
 Version:	21.0.0
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/boltons/
